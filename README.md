@@ -3,7 +3,11 @@
 技术选型
 
 Java Spring Boot
+
 Spring Boot Starter（SDK 开发）
+
 Dubbo（RPC）
+
 Nacos
-Spring Cloud Gateway（网关、限流、日志实现）
+
+Spring Cloud Gateway
