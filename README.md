@@ -4,7 +4,7 @@
 
 Java Spring Boot
 
-Spring Boot Starter（SDK 开发）
+Spring Boot Starter
 
 Dubbo（RPC）
 
